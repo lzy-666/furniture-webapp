@@ -1,6 +1,6 @@
-# yijia
+# furniture
 
-> A Vue.js project
+> 家有家具泛商城源码
 
 ## Build Setup
 
